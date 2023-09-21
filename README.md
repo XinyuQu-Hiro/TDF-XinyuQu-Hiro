@@ -1,4 +1,14 @@
 # Qu Xinyu Hiro's Document
+## Week Four report
+This weekend, I organized the relevant materials for my first project. Primarily, I wrote a reflective report to articulate my thoughts on the process and the insights gained from my first project. I also discussed the implications of parametric design and computer-aided design for designers, citizens, and the future. During this process, I reflected on my experience and takeaways from using Grasshopper as my first parametric design tool.
+
+Subsequently, I received the topic for my next assignment. I found it quite similar to the open-source hardware projects I've worked on before. I was pleased to receive a kit, as I didn't bring my Arduino-related components with me to the United States. Following the instructions, I registered an account, connected to Wi-Fi, configured the kit, and prepared for Thursday's class.
+![logic](PIC/week4/Snipaste_2023-09-21_12-04-57.jpg)
+![logic](PIC/week4/Snipaste_2023-09-21_12-08-18.jpg)
+![logic](PIC/week4/Snipaste_2023-09-21_12-09-22.jpg)
+![logic](PIC/week4/Snipaste_2023-09-21_12-09-54.jpg)
+
+
 ## Week Three report
 This week, I continued to deepen my Grasshopper model.
 ![logic](PIC/Week3/Snipaste_2023-09-13_20-39-32.jpg)
