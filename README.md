@@ -1,4 +1,10 @@
 # Qu Xinyu Hiro's Document
+## Week Six report
+This week, we conducted a pitch for our group and sparked inspiration. I found my other three team members, and our main focus is on creating wearable technology for plant information collection. After several discussions, we finalized our design background, design objectives, and implementation methods.
+## Week Five report
+This week, we primarily familiarized ourselves with Photon's settings and brainstormed ideas for our upcoming second major project. I proposed an intriguing concept called "Apocalypse Design," which revolves around wearable technology, plant biology, bio-materials, and environmental data collection. 
+
+This idea sparked the interest of our entire team, and we are eager to delve deeper into it and turn it into a reality. This project promises to be an exciting adventure, and we look forward to the challenges and innovations it will bring. In future blog posts, we will share more details and updates about the project, so stay tuned!
 ## Week Four report
 This weekend, I organized the relevant materials for my first project. Primarily, I wrote a reflective report to articulate my thoughts on the process and the insights gained from my first project. I also discussed the implications of parametric design and computer-aided design for designers, citizens, and the future. During this process, I reflected on my experience and takeaways from using Grasshopper as my first parametric design tool.
 
