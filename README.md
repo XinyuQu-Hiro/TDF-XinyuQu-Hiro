@@ -5,7 +5,7 @@
 This week, my team and I had an in-depth discussion to further specify the types of information we need to collect. Our main focus includes soil moisture, sunlight intensity, temperature, and other related image data. This discussion helped us better plan and execute our project.
 
 In this week's work, I took on the task of writing Photon code and was responsible for connecting the circuit board. This part of the work is crucial to ensure that we can successfully collect sensor data. We need to ensure that this data can be transmitted accurately and efficiently to our system.
-![logic](PIC/week4/Snipaste_2023-09-21_12-04-57.jpg)
+![logic](PIC/unitysensor.jpg)
 Additionally, one of my team members proposed an interesting idea of outputting the collected information into Unity as images. This will add an exciting dimension to our project, allowing us to visualize and analyze the collected data more intuitively. This innovative approach will help us better understand and communicate our research findings.
 
 Overall, this week we made significant progress in the discussion of information types and task assignments. I look forward to continuing our collaboration in future work to turn these ideas into reality and achieve our project goals.
