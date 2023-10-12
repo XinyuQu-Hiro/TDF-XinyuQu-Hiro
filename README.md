@@ -1,6 +1,6 @@
 # Qu Xinyu Hiro's Document
 ## Week Seven report
-![logic](PIC/week4/Snipaste_2023-09-21_12-04-57.jpg)
+![logic](PIC/Snipaste_2023-10-12_14-19-31.jpg)
 
 This week, my team and I had an in-depth discussion to further specify the types of information we need to collect. Our main focus includes soil moisture, sunlight intensity, temperature, and other related image data. This discussion helped us better plan and execute our project.
 
