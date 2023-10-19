@@ -1,4 +1,34 @@
 # Qu Xinyu Hiro's Document
+## Week Eight report
+![logic](PIC/week8/fenmian.jpg)
+
+This week marks the conclusion of the second assignment. Here, I would like to briefly summarize our group project and my takeaways from this topic. The primary objective of this assignment was to acquire proficiency in using Photon and facilitating communication and interaction between multiple Photon boards. Additionally, it aimed to enhance our teamwork skills as we collaborated to create an engaging concept and prototype together.
+
+# Project Background: 
+We aim to create a virtual garden for each user by gathering data related to plants and their surroundings, including soil moisture and sunlight information. This data is collected and processed, and then a personalized virtual garden is constructed using Unity. This virtual garden serves as a platform for users to generate and record information about the plants they encounter.
+![logic](PIC/week8/background.jpg)
+
+# My work
+![logic](PIC/week8/photin.jpg)
+In this week's work, my primary responsibilities included connecting and coding for the sensor-related Photon boards, as well as building the casing. Throughout this process, I found that it is quite similar to programming with the Arduino IDE for the most part. When connecting two different Photon boards, both boards need to be under the same account's permissions. The process of uploading code involves the first board uploading to the Photon cloud, and the second board reading from it. When considering how to establish communication between the two boards, I realized that since the first board has a soil moisture sensor and needs to be inserted into the soil for data collection, having it connected to a computer would be quite inconvenient. Therefore, the second board essentially serves as an information relay for future users to place in their homes, used for reading the collected data.
+
+I also used a Falcon structure to create a wooden box because laser cutting is the quickest method for constructing a model. 
+![logic](PIC/week8/实拍.jpg)
+We then placed the circuit boards inside the box and proceeded to the next phase of testing. Meanwhile, my teammate focused on the Unity part. We integrated the data collected by the Photon into Unity and implemented the corresponding interactions.
+![logic](PIC/week8/shiwu.jpg)
+![logic](PIC/week8/植物.jpg)
+
+In the course of this project, I gained valuable experience and insights. As part of my responsibilities, I worked on connecting and coding for the sensor-related Photon boards, as well as constructing an efficient wooden casing for the project. Here are some key takeaways and points to consider when working with Photon:
+
+# Takeaways:
+· Similarity to Arduino: Working with Photon boards was akin to working with Arduino, which made the programming aspects familiar and manageable.
+· Account Permissions: When connecting two different Photon boards, it is essential that both boards have the necessary permissions within the same account for smooth code transfer.
+· Data Relay: One board, serving as an information relay (the second board in our case), can be a practical solution when a sensor-equipped board needs to be placed in a location that's inconvenient for direct · connections (e.g., in the soil).
+· Efficiency with Laser Cutting: Utilizing laser cutting for constructing the wooden casing proved to be a rapid and efficient method for creating a suitable housing for the project.
+· Unity Integration: Team collaboration was vital as my teammate handled the Unity integration, which involved linking the data collected by the Photon boards to Unity and developing interactive features for the virtual garden.
+
+In summary, this project provided a hands-on opportunity to work with Photon boards and develop a virtual garden that gathers plant-related data. The experience highlighted the importance of teamwork, familiarized me with Photon and Arduino-like programming, and emphasized efficiency in design and testing. To excel in projects like this, it's essential to prioritize user experience, data security, and scalability.
+
 ## Week Seven report
 ![logic](PIC/Snipaste_2023-10-12_14-19-31.jpg)
 
