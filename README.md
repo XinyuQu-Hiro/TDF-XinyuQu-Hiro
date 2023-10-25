@@ -1,4 +1,36 @@
 # Qu Xinyu Hiro's Document
+## Week nine report
+
+### Introduction
+This weekly report summarizes my progress and activities during the past week as part of the "Mini Me" project, which focuses on designing an interaction interface using Large Language Models (LLMs) to simulate a personalized knowledge portfolio. In this report, I will provide an overview of the tasks I have completed and insights gained during the week.
+
+### Project Overview
+The "Mini Me" project aims to create an interactive portfolio that simulates a personalized interaction, exposing my knowledge as generated and captured throughout the DESINV 202 course. This project involves the design and management of knowledge sets, making informed decisions about what information to include and how to include it. The objective is to create a unique and personalized interface, distinct from a standard LLM interaction like ChatGPT4.
+
+### Accomplishments
+During this week, I achieved the following milestones:
+
+### 1. ZeroWidth Account Setup
+I successfully set up my ZeroWidth account, which will be a crucial component for creating the knowledge interface. ZeroWidth is a valuable platform for hosting static web pages and content. This step enables me to start building and testing the interactive portfolio.
+
+### 2. Attended Design Lecture
+I attended a design lecture that focused on using large language models for speech interaction design. The lecture provided valuable insights into the practical applications of LLMs, which will be useful in shaping the knowledge interface.
+
+### 3. Initial Knowledge Context
+I began organizing and structuring the knowledge context for my project. This involved selecting and curating relevant information from my course journal and other resources. I made decisions on what information to include and how to present it for a more personalized interaction.
+
+## Next Steps
+In the upcoming week, I plan to:
+
+- Continue refining the knowledge context and making informed choices about what to include.
+- Start building the interactive portfolio using the ZeroWidth platform.
+- Experiment with LLM interaction to create a conversational and engaging user experience.
+- Seek feedback from peers and mentors to ensure that the project aligns with its objectives.
+
+## Conclusion
+This week has been a productive start to the "Mini Me" project. I am excited to see the knowledge interface take shape and provide a unique and personalized experience for users. As I move forward, I will continue to learn and adapt to the challenges of designing with LLMs, striving for a seamless and meaningful interaction.
+
+
 ## Week Eight report
 ![logic](PIC/week8/fenmian.jpg)
 
