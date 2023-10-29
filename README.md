@@ -2,8 +2,6 @@
 
 ## Week 10 report Minime
 I'm excited to introduce my project, 'Generative Pre-trained Transformer Input Design and Knowledge Management,' and how I applied this technology to my Chatbot prototype - Minime.
-
-## Project Title
 First, let me show you my Chatbot prototype - Minime.
 As you can see, Minime is a Chatbot that can intelligently answer questions, but it's not just a simple chatbot. It uses Generative Pre-trained Transformer technology and has gone through a series of experiments and knowledge management strategies to support it.
 
