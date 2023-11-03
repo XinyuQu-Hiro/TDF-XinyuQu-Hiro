@@ -1,4 +1,37 @@
 # Qu Xinyu Hiro's Document
+## Week ten report
+### Introduction
+
+Hello, I'm Xinyu, and today, I'm excited to introduce my project, 'Generative Pre-trained Transformer Input Design and Knowledge Management,' and how I applied this technology to my Chatbot prototype - Minime.
+
+First, let me show you my Chatbot prototype - Minime. As you can see, Minime is a Chatbot that can intelligently answer questions, but it's not just a simple chatbot. It uses Generative Pre-trained Transformer technology and has gone through a series of experiments and knowledge management strategies to support it.
+
+### About the Experimentation Process
+
+In this project, I explored a series of experiments, including how to design inputs for the Generative Pre-trained Transformer model. Here are some key points I'd like to discuss:
+
+- First, I want to talk about how to design inputs for the Generative Pre-trained Transformer model.
+- Next, I adopted a knowledge management strategy to achieve Retrieval Augmented Generation, which is crucial for my Chatbot Minime.
+- Next, I investigated the impact of token count and context length in my experiments.
+- I also explored the role of the 'temperature' parameter in my experiments. Temperature is a form of question-and-answer fault tolerance, adjusting it in conjunction with the chatbot's question-and-answer monitor can help fine-tune instructions, making the conversation more closely resemble the expected progression.
+
+### Impact on Human Experience Design
+
+This technology has a profound impact on human experience design. This allows us to provide users with more intelligent and personalized experiences, whether it's on social media, customer support, or other fields.
+
+### Impact on Engineering and Construction
+
+Moreover, this technology has a significant impact on the fields of engineering and construction. It has the potential to enable us to build intelligent systems more efficiently, increase productivity, while also reducing costs.
+
+### Ethical Considerations
+
+Finally, let's talk about the ethical considerations of presenting the prototype as a digital twin. When using this technology, we must handle privacy and security issues carefully and ensure the legal use of data.
+
+### Conclusion
+
+In summary, my project aims to explore the application of Generative Pre-trained Transformer technology and how to apply it to the Chatbot prototype Minime. I deeply understand the importance of this technology in human experience design and the engineering field, while also emphasizing the necessity of ethical considerations.
+
+If you have any questions about my project or want to know more, please feel free to leave a comment or send me a message. Thank you again for your attention, and I hope my project sparks more interesting discussions and research.
 
 ## Week 10 report Minime
 I'm excited to introduce my project, 'Generative Pre-trained Transformer Input Design and Knowledge Management,' and how I applied this technology to my Chatbot prototype - Minime.
