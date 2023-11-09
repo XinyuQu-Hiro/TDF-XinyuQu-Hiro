@@ -8,16 +8,10 @@ The primary challenge this week was deciding whether to enhance my existing proj
 ### Next Steps
 
 For the upcoming week, I plan to:
-
-    Continue refining the scenarios for potential technology applications and begin assembling the necessary components for these scenarios.
-
-    Further develop the outline of the demonstration, ensuring that it effectively showcases the technology and enables audience engagement.
-
-    Evaluate the advantages and disadvantages of each option (enhancing the existing project or starting a new one) and make a well-informed decision.
-
-    Seek input from peers and mentors to gain additional perspectives on the project direction.
-
-    Start building the groundwork for the selected project, preparing for a productive and efficient implementation phase.
+Continue refining the scenarios for potential technology applications and begin assembling the necessary components for these scenarios.
+Further develop the outline of the demonstration, ensuring that it effectively showcases the technology and enables audience engagement. Evaluate the advantages and disadvantages of each option (enhancing the existing project or starting a new one) and make a well-informed decision.
+Seek input from peers and mentors to gain additional perspectives on the project direction.
+Start building the groundwork for the selected project, preparing for a productive and efficient implementation phase.
 
 This week marked the initiation of Project 4, and I am excited about the potential it holds for exploring and demonstrating the technologies we have learned about. The decision on whether to enhance my existing project or embark on a new one will play a significant role in shaping the direction of the project, and I look forward to the challenges and opportunities that lie ahead.
 ## Week ten report
