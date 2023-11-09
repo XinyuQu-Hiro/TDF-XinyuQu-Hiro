@@ -1,4 +1,25 @@
 # Qu Xinyu Hiro's Document
+## Week eleven report
+### Introduction
+
+This week, our focus revolved around the outline of Project 4, which involves identifying compelling use cases for the technologies we have explored throughout the semester. The objective is to showcase these technologies at The Jacobs Showcase, targeting technical decision-makers, user-centered designers, and the general public. The technologies at our disposal include microcontrollers, sensors, actuators, digital modeling, simulation, fabrication tools, and LLM-based AI. During the week, I contemplated two options: either enhancing my second project, based on the Photon technology, to make it more product-oriented, or starting a completely new project, the details of which are still under consideration.
+
+The primary challenge this week was deciding whether to enhance my existing project or start a new one. Both options have their merits and require careful consideration to align with the objectives of Project 4.
+### Next Steps
+
+For the upcoming week, I plan to:
+
+    Continue refining the scenarios for potential technology applications and begin assembling the necessary components for these scenarios.
+
+    Further develop the outline of the demonstration, ensuring that it effectively showcases the technology and enables audience engagement.
+
+    Evaluate the advantages and disadvantages of each option (enhancing the existing project or starting a new one) and make a well-informed decision.
+
+    Seek input from peers and mentors to gain additional perspectives on the project direction.
+
+    Start building the groundwork for the selected project, preparing for a productive and efficient implementation phase.
+
+This week marked the initiation of Project 4, and I am excited about the potential it holds for exploring and demonstrating the technologies we have learned about. The decision on whether to enhance my existing project or embark on a new one will play a significant role in shaping the direction of the project, and I look forward to the challenges and opportunities that lie ahead.
 ## Week ten report
 ### Introduction
 
