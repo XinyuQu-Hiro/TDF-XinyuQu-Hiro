@@ -1,4 +1,9 @@
 # Qu Xinyu Hiro's Document
+## Week Thirteen report
+this week is Thanks giving, Happy Thanksgiving
+But I do not have any plan to spend my holiday,and I am still working on the hardware part of the final project.
+
+
 ## Week twlves repot
 ### Hardware Development for Final Project
 
