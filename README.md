@@ -1,4 +1,39 @@
 # Qu Xinyu Hiro's Document
+## Week twlves repot
+### Hardware Development for Final Project
+
+This week, my focus was on the hardware aspect of our final project. With Jeff's assistance, I successfully learned how to utilize the doubler and data logging hardware. Throughout this process, there were specific considerations that I needed to keep in mind.
+
+### Using the Doubler
+
+1. **Power Requirements:** Ensure the doubler is connected to the correct power source to prevent any potential damage to the device.
+2. **Pin Connections:** Pay careful attention to ensure all pins are correctly connected to avoid signal transmission errors.
+3. **Solder underneath:** I need to solder the line underneath the board for power supply
+
+### Utilizing Data Logging
+
+1. **Storage Capacity:** Be mindful of the data logging storage capacity, ensuring sufficient space is available for the required data.
+2. **Sampling Frequency:** Adjust the sampling frequency as needed to balance data accuracy and efficient use of storage space.
+3. **Data Format:** Ensure the selection of an appropriate data format for ease of subsequent processing and analysis.
+
+## Implementation of Recording Functionality
+
+In my efforts, I successfully implemented the capability to start and stop recording using buttons, saving the recordings as .wav files to the SD card.
+
+### Button-Controlled Recording
+
+1. **Hardware Connections:** Confirm proper button connections to the respective pins to trigger recording accurately.
+2. **Interrupt Handling:** Use interrupt handling to ensure proper capture and processing of button press and release actions.
+3. **State Management:** Implement a state machine or similar mechanism to ensure that pressing the button during recording does not trigger a repeat recording.
+
+### Saving Recording Files
+
+1. **File Naming:** Adopt meaningful file naming conventions for efficient file management and identification.
+2. **File Path:** Ensure files are saved to the correct path on the SD card to prevent data loss or storage errors.
+3. **Format Compatibility:** Confirm that .wav files are recognizable and usable by subsequent processing tools.
+
+This week's work provided me with a deeper understanding of hardware operations and considerations. Simultaneously, I made progress in the implementation of recording functionality.
+
 ## Week eleven report
 ### Introduction
 
