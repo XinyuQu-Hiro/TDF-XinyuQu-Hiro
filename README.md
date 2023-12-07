@@ -1,4 +1,74 @@
 # Qu Xinyu Hiro's Document
+## Week Fifteen report
+In the process of utilizing Photon for hardware development, I explored two main approaches. Initially, I employed a doubler to replicate Photon's pins and integrated a datalogging featherwing. The notable feature of this board is the built-in TF card reader, allowing data processing based on timestamps. However, this method necessitates manually removing the SD card and plugging it into a computer for data retrieval, which posed some challenges in the code implementation.
+
+To address these issues, with assistance from Jeff, I transitioned to a second approach. This involved utilizing Photon directly for computation and transmitting data to a virtual server established on a computer. The system then generates WAV files directly in the target computer's designated folder. The fundamental aspects of the system remained consistent, including the use of a button to initiate recording, a subsequent press to cease recording, and the incorporation of a maximum recording duration to enable timed recording termination.
+
+### Technical Details:
+First Approach: Doubler and Datalogging Featherwing
+
+Implementation of a doubler to duplicate Photon pins.
+Integration of a datalogging featherwing with a TF card reader.
+Data processing based on timestamps.
+Manual extraction of the SD card for data retrieval.
+Code challenges were encountered and needed resolution.
+Second Approach: Direct Photon Computation and Data Transmission
+
+Elimination of doubler and direct use of Photon for computation.
+Data transmission to a virtual server established on a computer.
+Real-time generation of WAV files in the designated folder on the target computer.
+Retention of the button control mechanism for recording initiation and cessation.
+Incorporation of a maximum recording duration for timed recording termination.
+Conclusion:
+The transition to the second approach not only streamlined the hardware setup but also resolved the challenges associated with the first method. By leveraging Photon's computational capabilities and transmitting data directly to a virtual server, the system now offers a more efficient and user-friendly solution for hardware development and data logging. The use of button controls and timed recording termination further enhances the system's usability and flexibility in various applications.
+
+### Code: (the final version)
+c++
+Copy code
+//  * Project myProject
+//  * Author: Your Name
+//  * Date:
+//  * For comprehensive documentation and examples, please visit:
+//  * https://docs.particle.io/firmware/best-practices/firmware-template/
+
+#include "Microphone_PDM.h"
+#include "Particle.h"
+
+SYSTEM_THREAD(ENABLED);
+SYSTEM_MODE(SEMI_AUTOMATIC);
+
+#define buttonPin D3
+
+SerialLogHandler logHandler;
+
+// If you don't hit the setup button to stop recording, this is how long to go before turning it
+// off automatically. The limit really is only the disk space available to receive the file.
+const unsigned long MAX_RECORDING_LENGTH_MS = 30000;
+
+// This is the IP Address and port that the server.js node server is running on.
+//IPAddress serverAddr = IPAddress(10,44,92,177); //10.44.92.177 Hiro's IP address
+IPAddress serverAddr = IPAddress(10,44,225,153); //nancy:10.44.225.153
+
+int serverPort = 7123;
+
+TCPClient client;
+unsigned long recordingStart;
+
+enum State { STATE_WAITING, STATE_CONNECT, STATE_RUNNING, STATE_FINISH };
+State state = STATE_WAITING;
+
+// Forward declarations
+void buttonHandler(void);
+
+void setup() {
+   interrupts();
+
+   Particle.connect();
+
+  
+
+## Week Fourteen report
+This week, during Thanksgiving, I did not go out for leisure. Instead, I spent the time working on hardware projects.
 ## Week Thirteen report
 this week is Thanks giving, Happy Thanksgiving
 But I do not have any plan to spend my holiday,and I am still working on the hardware part of the final project.
