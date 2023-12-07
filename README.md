@@ -1,4 +1,11 @@
 # Qu Xinyu Hiro's Document
+## Week Final report
+tomorrow is our showcase！！！
+Special Thanks：——By Xinyu
+Throughout this integration process, I have gained valuable insights and expanded my understanding of hardware development. Despite considering myself proficient in hardware, I realized that my knowledge was relatively shallow. The key takeaway was the recognition that consulting relevant samples when working with new components is the most efficient learning method.
+Moreover, this project introduced me to using VS Code for hardware development, a tool I had not utilized previously. Learning to install various libraries significantly simplified the entire process. Each discussion with Jeff highlighted the importance of paying attention to details and adopting a meticulous approach to hardware testing. This included the realization that verifying each component individually before assembly is crucial for ensuring accuracy and functionality.
+In essence, the integration experience has been a rich learning journey, demonstrating the importance of continuous exploration, leveraging available resources, and collaborating with experienced individuals to deepen one's understanding of hardware development.
+
 ## Week Fifteen report
 In the process of utilizing Photon for hardware development, I explored two main approaches. Initially, I employed a doubler to replicate Photon's pins and integrated a datalogging featherwing. The notable feature of this board is the built-in TF card reader, allowing data processing based on timestamps. However, this method necessitates manually removing the SD card and plugging it into a computer for data retrieval, which posed some challenges in the code implementation.
 
